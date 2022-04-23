@@ -3,15 +3,15 @@
 ## About
 This is a mini-project for SC1015 (Data Science and Artificial Intelligence) which focuses on Learning Analytics from the [Student Performance Dataset](https://archive.ics.uci.edu/ml/datasets/student+performance). 
 For detailed walkthrough please view in the following format:  
-1. [Data Exploration]()  
-2. [KMeans Clustering](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/KMeans%20Clustering.ipynb)
-3. [Hierarchical Clustering](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/Hierarchical%20Clustering.ipynb)
-4. [KPrototypes Clustering](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/KPrototypes%20Clustering.ipynb)
-5. [Baseline Decision Tree](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/DTallvar.ipynb)
-6. [Numerical-based Decision Tree](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/DTnum.ipynb)
-7. [Decision Tree with identified variables](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/DTusefulcluster-FeduIncluded.ipynb)
-8. [Decision Tree with identified variables (Exploration)](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/DTusefulcluster.ipynb)
-9. [UMAP/PCA (Failed Exploration)](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/SC1015%20UMAP.ipynb)
+1. [KMeans Clustering](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/KMeans%20Clustering.ipynb)
+2. [Hierarchical Clustering](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/Hierarchical%20Clustering.ipynb)
+3. [KPrototypes Clustering](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/KPrototypes%20Clustering.ipynb)
+4. [Baseline Decision Tree](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/DTallvar.ipynb)
+5. [Numerical-based Decision Tree](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/DTnum.ipynb)
+6. [Decision Tree with identified variables](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/DTusefulcluster-FeduIncluded.ipynb)
+7. [Decision Tree with identified variables (Exploration)](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/DTusefulcluster.ipynb)
+8. [UMAP/PCA (Failed Exploration)](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/SC1015%20UMAP.ipynb)
+9. [Unsupervised UMAP (Failed Exploration)](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/Unsupervised%20UMAP.ipynb)
 
 ## Contributions
 Alan, Keith, Mavis
