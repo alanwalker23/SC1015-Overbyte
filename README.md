@@ -9,14 +9,14 @@ For detailed walkthrough please view in the following format:
 Alan, Keith, Mavis
 
 ## Problem Definition
-Are we able to determine if a student will fail based on his lifestyle?
-Can we predict which "band" a student will fall into based on previous records?
+Are we able to determine if a student will fail based on his lifestyle?  
+Can we predict which "band" a student will fall into based on previous records?  
 Following these bands we can remedy their scores and provide appropriate support.
 
 ## Models Used
-Elbow Plot for Cluster Selection
-KMeans & KPrototype clustering
-Hierarchical Clustering (Dendrogram)
+Elbow Plot for Cluster Selection  
+KMeans & KPrototype clustering  
+Hierarchical Clustering (Dendrogram)  
 Decision Tree
 
 ## Conclusion
@@ -29,10 +29,10 @@ Being absent for classes does not necessarily equate to bad performance, but the
 Being self-aware and accepting of high alcohol consumption on weekly and daily basis would negatively affect performance.
 
 ## What did we learn from this project?
-Learning Analytics
-Clustering
-Decision Tree
-Collaborating using GitHub
+Learning Analytics  
+Clustering  
+Decision Tree  
+Collaborating using GitHub  
 Concepts about Distance, Accuracy, Noise and Data Handling
 
 ## References
