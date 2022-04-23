@@ -20,12 +20,12 @@ Hierarchical Clustering (Dendrogram)
 Decision Tree
 
 ## Conclusion
-Parent's education place a part in one's school performance.
-Mother staying at home could be detrimental to one's school performance.
-Studying more equates to better grades, but given it is based on qualitative grounds, this might be reliant on one's confidence.
-Aiming for higher education does improve one's school performance (driven).
-Internet access plays a part in performance.
-Being absent for classes does not necessarily equate to bad performance, but there is a general trend of performing badly.
+Parent's education place a part in one's school performance.  
+Mother staying at home could be detrimental to one's school performance.  
+Studying more equates to better grades, but given it is based on qualitative grounds, this might be reliant on one's confidence.  
+Aiming for higher education does improve one's school performance (driven).  
+Internet access plays a part in performance.  
+Being absent for classes does not necessarily equate to bad performance, but there is a general trend of performing badly.  
 Being self-aware and accepting of high alcohol consumption on weekly and daily basis would negatively affect performance.
 
 ## What did we learn from this project?
