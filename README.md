@@ -45,3 +45,23 @@ Decision Tree
 Collaborating using GitHub  
 Concepts about Distance, Accuracy, Noise and Data Handling
 
+## References
+1. [Data Types](https://www.analyticsvidhya.com/blog/2021/06/complete-guide-to-data-types-in-statistics-for-data-science/)
+2. [One-Hot Encoding](https://machinelearningmastery.com/why-one-hot-encode-data-in-machine-learning/)
+3. [When to use clustering](https://www.explorium.ai/blog/clustering-when-you-should-use-it-and-avoid-it/)
+4. [PANDAS Correlation](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.corr.html)
+5. [Point Biserial](https://towardsdatascience.com/point-biserial-correlation-with-python-f7cd591bd3b1)
+6. [Correlation](https://towardsdatascience.com/everything-you-need-to-know-about-correlation-3ef78f22fcad)
+7. [Clustering](https://medium.com/analytics-vidhya/the-ultimate-guide-for-clustering-mixed-data-1eefa0b4743b)
+8. [Clustering](https://machinelearningmastery.com/clustering-algorithms-with-python/)
+9. [K-Means](https://realpython.com/k-means-clustering-python/)
+10. [K-Means](https://jakevdp.github.io/PythonDataScienceHandbook/05.11-k-means.html)
+11. [K-Prototypes](https://medium.com/analytics-vidhya/customer-segmentation-using-k-prototypes-algorithm-in-python-aad4acbaaede)
+12. [K-Prototypes](https://towardsdatascience.com/the-k-prototype-as-clustering-algorithm-for-mixed-data-type-categorical-and-numerical-fe7c50538ebb)
+13. [UMAP](https://towardsdatascience.com/tsne-vs-umap-global-structure-4d8045acba17)
+14. [Modelling](https://machinelearningmastery.com/calculate-feature-importance-with-python/)
+15. [Decision Tree](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
+16. [xgboost](https://towardsdatascience.com/a-beginners-guide-to-xgboost-87f5d4c30ed7)
+17. [xgboost](https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d)
+18. [xgboost](https://machinelearningmastery.com/develop-first-xgboost-model-python-scikit-learn/)
+
