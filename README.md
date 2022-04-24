@@ -12,8 +12,9 @@ For detailed walkthrough please view in the following format:
 7. [Numerical-based Decision Tree](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/DTnum.ipynb)
 8. [Decision Tree with identified variables](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/DTusefulcluster-FeduIncluded.ipynb)
 9. [Decision Tree with identified variables (Exploration)](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/DTusefulcluster.ipynb)
-10. [UMAP/PCA (Failed Exploration)](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/SC1015%20UMAP.ipynb)
-11. [Unsupervised UMAP (Failed Exploration)](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/Unsupervised%20UMAP.ipynb)
+10. [Decision Tree with identified variables (xgboosted)](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/DTusefulcluster-FeduIncluded%20(xgboosted).ipynb)
+11. [UMAP/PCA (Failed Exploration)](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/SC1015%20UMAP.ipynb)
+12. [Unsupervised UMAP (Failed Exploration)](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/Unsupervised%20UMAP.ipynb)
 
 ## Contributions
 Alan, Keith, Mavis
