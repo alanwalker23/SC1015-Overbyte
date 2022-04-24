@@ -45,5 +45,3 @@ Decision Tree
 Collaborating using GitHub  
 Concepts about Distance, Accuracy, Noise and Data Handling
 
-## References
-
