@@ -16,6 +16,8 @@ For detailed walkthrough please view in the following format:
 11. [UMAP/PCA (Failed Exploration)](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/SC1015%20UMAP.ipynb)
 12. [Unsupervised UMAP (Failed Exploration)](https://github.com/alanwalker23/SC1015-Overbyte/blob/main/Unsupervised%20UMAP.ipynb)
 
+Video Presentation available [here](https://www.youtube.com/watch?v=29C5kGzGRVI)
+
 ## Contributions
 Alan, Keith, Mavis
 
