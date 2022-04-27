@@ -19,7 +19,7 @@ For detailed walkthrough please view in the following format:
 Video Presentation available [here](https://www.youtube.com/watch?v=29C5kGzGRVI)
 
 ## Contributions
-Alan, Keith, Mavis
+Alan, Keith, Mavis, all done together with even work distribution
 
 ## Problem Definition
 Are we able to determine if a student will fail based on his lifestyle?  
